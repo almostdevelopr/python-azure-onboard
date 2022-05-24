@@ -1,9 +1,10 @@
 def add(x):
     return x + 1
 
-def toyou(x):
-    return "hi %s"%x
 
-var=
+def toyou(x):
+    return "hi %s" % x
+
+
 def subtract(x):
-    return x-1
+    return x - 1
